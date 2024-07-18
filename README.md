@@ -13,6 +13,6 @@ Project: Simple Quiz in C++
 This project is a simple quiz game implemented in C++. The game presents multiple-choice questions to the user, keeps track of their score, and provides feedback based on their answers.
 
 **Key Activities**
-Multiple-choice questions
-Score tracking
+Multiple-choice questions,
+Score tracking,
 Immediate feedback on answers
